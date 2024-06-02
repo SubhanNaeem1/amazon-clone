@@ -1,2 +1,2 @@
-# amazon-clone
-amazon clone using html,css
+# SalesForce-clone
+SalesForce clone using HTML,CSS
